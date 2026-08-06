@@ -1,4 +1,5 @@
 
+
 # CloudOps Enterprise Platform
 
 ## Project Overview
@@ -26,3 +27,6 @@ The CloudOps Enterprise Platform is a cloud-native DevOps project that demonstra
 Pavana S
 Vemana Institute of Technology
 6th Semester - Information Science and Engineering
+
+# CloudOps-Enterprise-Platform
+525f42cf71f11e10f36fa3667709ced1f98e4d2f
